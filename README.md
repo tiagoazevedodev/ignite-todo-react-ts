@@ -1,80 +1,30 @@
-<p align="center">
-    <strong>todo list</strong>
-</p>
+# Todo List App
 
-<p align="center">
- <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-funcionalidades">Funcionalidades</a> • 
- <a href="#-layout">Layout</a> • 
- <a href="#-tecnologias-utilizadas">Tecnologias</a> • 
- <a href="#-instalação-e-uso">Instalação</a>
-</p>
+A simple CRUD (Create, Read, Update, Delete) application developed for the Rocketseat Ignite course challenge. The project is a minimal yet practical example for practicing CRUD operations and responsive design.
 
-<h4 align="center"> 
-	🚧  Projeto concluído 🚀 🚧
-</h4>
+[Live Demo](RENDER.COM)
 
-## 💻 Sobre o projeto
+## Technologies
 
-[Todo App](RENDER.COM) foi criado para resolução do desafio do curso Ignite (trilha atualizada) da Rocketseat. Essa aplicação apesar de simples é um excelente exemplo para praticar o desenvolvimento de apps CRUD (Create, Read, Update, Delete).
+- **ReactJS**
+- **TypeScript**
+- **TailwindCSS**
+- **Vite**
 
-<p align="center">
-  <img src=".github/app-preview.gif">
-</p>
-
-
-## ☑ Funcionalidades
-
-- [x] Inserir tarefas
-  - [x] Inserção com enter
-  - [x] Verificação de campo vazio
-- [x] Alterar estado da tarefa
-  - [x] Marcar como concluído
-  - [x] Apagar tarefa
-- [x] Responsividade em telas menores
-  - [x] Redução do tamanho de fonte
-  - [x] Redução do tamanho de elementos
-- [x] Navegação total por teclado
-
-
-## 🎨 Layout
-
-### Desktop
-
-<p align="left"> 
-  <img src="./.github/desktop-screenshot.png" width="70%"">
-</p>
-
-### Mobile
-
-<p align="left">       
-  <img src="./.github/mobile-screenshot-1.png" width="35%">
-  <img src="./.github/mobile-screenshot-2.png" width="35%">
-</p>
-
-## 🔨 Tecnologias utilizadas
-
-As seguintes ferramentas foram usadas na construção do projeto:
-
-- **[ReactJS](https://reactjs.org/)**
-- **[TypeScript](https://www.typescriptlang.org/)**
-- **[TailwindCSS](https://tailwindcss.com/)**
-- **[Vite](https://vitejs.dev/)**
-
-## 🚀 Instalação e uso
+## Installation
 
 ```bash
-# Clone o repositório
+# Clone this repository
 git clone https://github.com/mateusabelli/ignite-todo-app.git
 
-# Acesse a pasta do projeto
+# Navigate to the project directory
 cd ignite-todo-app
 
-# Instale as dependências
+# Install dependencies
 npm install
 
-# Execute a aplicação
+# Start the development server
 npm run dev
 
-# O servidor inciará na porta:3000 - acesse http://localhost:3000
+# Access the app at http://localhost:3000
 ```
