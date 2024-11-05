@@ -18,8 +18,7 @@
  <a href="#-funcionalidades">Funcionalidades</a> • 
  <a href="#-layout">Layout</a> • 
  <a href="#-tecnologias-utilizadas">Tecnologias</a> • 
- <a href="#-instalação-e-uso">Instalação</a> • 
- <a href="#-licença">Licença</a>
+ <a href="#-instalação-e-uso">Instalação</a>
 </p>
 
 <h4 align="center"> 
@@ -28,7 +27,7 @@
 
 ## 💻 Sobre o projeto
 
-Todo App foi criado para resolução do desafio do curso Ignite (trilha atualizada) da Rocketseat. Essa aplicação apesar de simples é um excelente exemplo para praticar o desenvolvimento de apps CRUD (Create, Read, Update, Delete).
+[Todo App](RENDER.COM) foi criado para resolução do desafio do curso Ignite (trilha atualizada) da Rocketseat. Essa aplicação apesar de simples é um excelente exemplo para praticar o desenvolvimento de apps CRUD (Create, Read, Update, Delete).
 
 <p align="center">
   <img src=".github/app-preview.gif">
